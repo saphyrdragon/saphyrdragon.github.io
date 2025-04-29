@@ -4,3 +4,9 @@ print('Hello ' + name)
 def gaming = "x + 8"
   print(gaming)
 
+
+for item in range (0,10):
+  print(item)
+
+for i,char in enumerate('hello'):
+  print(i, char)
